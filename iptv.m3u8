@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF: -1, Kepez Tv
-https://rtmp.baku.tv/live/bakutv_540p.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 1" 
+https://mydo.canlitvplayer.com/arbhd.m3u8?bandwidth=6096&e=1707582537&playlistlength=5&shift=0&sid=coder_62&token=0ff60d16e525e04ae6b0e5da4657044e&user=37076
+
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 2" tvg-logo="http://example.com/logo2.png" group-title="Group 1",Channel 2
+https://str.yodacdn.net/aztv/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 3" tvg-logo="http://example.com/logo2.png" group-title="Group 1",Channel
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+
+
