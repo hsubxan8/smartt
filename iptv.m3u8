@@ -8,5 +8,14 @@ https://str.yodacdn.net/aztv/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Channel 3" tvg-logo="http://example.com/logo2.png" group-title="Group 1",Channel
 https://rtmp.baku.tv/live/bakutv_720p.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Channel 3" tvg-logo="http://example.com/logo2.png" group-title="Group 1",Channe4
-https://dogus-live.daioncdn.net/startv/startv_360p.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 3" tvg-logo="https://i" group-title="Group 1",FOX TV
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 4" tvg-logo="https://i.imgur.com/E97M2OL.png="Group 1",ARB 1
+https://edge02.odtv.az/o1/arbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/E97M2OL.png="Group 1",ARB 2
+http://109.205.166.68/server124/arb/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 6" tvg-logo="https://i.imgur.com/mtvIFyq.png="Group 1",ARB 24 1
+https://edge02.odtv.az/o7/arb24/playlist.m3u8
